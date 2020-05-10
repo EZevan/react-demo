@@ -56,6 +56,11 @@ src: source code.
 jsx = JavaScript + XML/HTML   
 Understand the **jsx** syntax: "< >" token will be resolved into HTML syntax, "{ }" token will be resolved into JavaScript syntax.
 
-### element render
+### Element Render
 
-### component
+### Components
+1. The suffix of components can be ".js" or ".jsx". Note that there will be syntax prompt within ".jsx" file, but not within ".js" file.  
+2. The react project is consist of thousands of components.
+
+### Props
+1. DRY: Reusability of the components.
